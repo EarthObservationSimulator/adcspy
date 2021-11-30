@@ -11,3 +11,6 @@
 * `funcs.py` (this file holds the equations of motion, control law, state estimator, sensor measurements, simulation, and plotting functions. This file only needs to be modified if one plans to change an algorithm or change the plots)
 
 Run the `main.py` file to get simulation results. Any parameters that need to be changed can be found in the `params.py` file. The `funcs.py` file should only need changing if, for example, a different control law or state estimation algorithm is to be implemented. The `utils.py` holds any basic functions that shouldn't need changing.
+
+## References ##
+E. Sin, M. Arcak, A. S. Li, V. Ravindra, S. Nag, "Autonomous Attitude Control for Responsive Remote Sensing by Satellite Constellations", AIAA Science and Technology Forum and Exposition (SciTech Forum), Nashville, January 2021 
